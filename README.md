@@ -27,9 +27,9 @@ This project generates realistic kitchen image previews based on customer-upload
 ## Status
 
 - Image upload and processing: complete
-- Prompt-based cabinet restyling: complete
-- Output generation: complete
-- Web integration: in progress
+- Prompt-based cabinet restyling: in progress
+- Output generation: not complete
+- Web integration: not complete
 
 ## Future Plans
 
